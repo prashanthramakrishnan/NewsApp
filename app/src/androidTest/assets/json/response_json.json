@@ -1,0 +1,19 @@
+{
+  "status": "ok",
+  "totalResults": 1,
+  "articles": [
+    {
+      "source": {
+        "id": "the-hindu",
+        "name": "The Hindu"
+      },
+      "author": "The Hindu Net Desk",
+      "title": "Power outage in Venezuela, Malaysia frees woman in N.Korea murder case, and other news in pictures",
+      "description": "10.30 amPower outage in VenezuelaThree days of power outage which has left Venezuelans without communications, electricity and water. The unprecedented power outage already left 15 patients dead and t",
+      "url": "https://www.thehindu.com/news/news-in-pictures-march-11-2019/article26493360.ece",
+      "urlToImage": "https://www.thehindu.com/news/international/53q2au/article26493321.ece/ALTERNATES/LANDSCAPE_615/0001EG5HRjpg",
+      "publishedAt": "2019-03-11T07:23:35.8679458Z",
+      "content": "Power outage in Venezuela\r\nThree days of power outage which has left Venezuelans without communications, electricity and water. The unprecedented power outage already left 15 patients dead and threatens to extend indefinitely, increasing distress for the seve… [+1113 chars]"
+    }
+  ]
+}

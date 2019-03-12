@@ -1,0 +1,12 @@
+<resources>
+
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="layout_height">2.5dp</dimen>
+    <dimen name="corner_radius">2.5dp</dimen>
+    <dimen name="card_height">150dp</dimen>
+    <dimen name="card_layout_margin">13dp</dimen>
+    <dimen name="margin">15dp</dimen>
+    <dimen name="margin_main">50dp</dimen>
+
+</resources>
