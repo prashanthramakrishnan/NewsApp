@@ -10,8 +10,8 @@ public class ApplicationModule {
 
     private Application application;
 
-    public ApplicationModule(Application mApplication) {
-        this.application = mApplication;
+    public ApplicationModule(Application application) {
+        this.application = application;
     }
 
     @Provides

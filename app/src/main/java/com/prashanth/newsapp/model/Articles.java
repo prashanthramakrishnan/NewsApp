@@ -44,6 +44,7 @@ public class Articles {
 
     @Getter
     @Setter
+    @SerializedName("content")
     private String content;
 
     @NotNull
